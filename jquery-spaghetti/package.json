@@ -8,7 +8,7 @@
     "test": "grunt test -v"
   },
   "dependencies": {
-    "grunt": "0.4.1",
+    "grunt": "1.5.3",
     "grunt-contrib-clean": "0.4.0rc6",
     "grunt-contrib-compass": "~0.2.0",
     "grunt-contrib-concat": "0.1.2rc6",
